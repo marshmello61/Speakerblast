@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "******************************************"
-  ui_print " Stock Experience Mod  By marshmello_61 O_o "
+  ui_print " Speaker blast mod  By marshmello_61 O_o "
   ui_print "******************************************"
 }
 
