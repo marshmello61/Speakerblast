@@ -6,6 +6,8 @@ This module increases the Default volume of Headphones/LoudSpeakers.
 Do check the version code carefully. The format is VersionCode/*presetlevel**type* where preset level is the level of volume increased, and type is H-Headphones, S-LoudSpeakers.
 for example, V1.1/90H. here preset is 90 and H stads for headphone, so this specific module INCREASES THE VOLUME OF HEADPHONES to PRESET 90.
 
+This Particar mod will blast your device volume to the level you can't even imagine.
+
 ## Caution**
   As i told before use any preset with caution, I will not be responsible for any loss.
   KEEP YOUR VOLUME LOW ALWAYS PLAYING MUSIC FIRST TIME.
